@@ -22,3 +22,8 @@ A Library Management System (DBMS) which has a front-end user interface connecti
 2) Pull the entire 'LMS' file into htdocs (File hierachy is important)
 3) Open XAMPP and start Apache and MySQL
 4) Search in the browser: localhost/LMS/home.php
+
+### Importing database
+1) Download the 'library.sql' file
+2) Create a new database: library
+3) Import the 'library.sql' database records
