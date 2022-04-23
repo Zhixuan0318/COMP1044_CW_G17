@@ -21,4 +21,4 @@ A Library Management System (DBMS) which has a front-end user interface connecti
 1) Download the ZIP file and extract it 
 2) Pull the entire 'LMS' file into htdocs (File hierachy is important)
 3) Open XAMPP and start Apache and MySQL
-4) Search in the browser: localhost/LMS/home.php or [click here](localhost/LMS/home.php)
+4) Search in the browser: localhost/LMS/home.php
