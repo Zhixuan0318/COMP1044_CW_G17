@@ -1,7 +1,7 @@
 # Library Management System (DBMS) | Coursework 2
 
 **Done by**: Group 17  
-**Languages**: HTML, CSS, JS, PHP, SQL
+**Languages**: HTML, CSS, JS, PHP, SQL  
 **Module**: COMP1044
 
 ###  Synopsis
