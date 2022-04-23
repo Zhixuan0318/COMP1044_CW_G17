@@ -30,7 +30,7 @@
         <p>8) You are now a professional librarian.</p>
       </div>
       <div class="buttondiv">
-        <a href="admin.php"><button type="button" class="btn btn-outline-primary bottom">Back to admin panel</button></a>
+        <a href="home.php"><button type="button" class="btn btn-outline-primary bottom">Back to home</button></a>
 
       </div>
     </div>
