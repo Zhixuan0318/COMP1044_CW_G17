@@ -1,0 +1,87 @@
+h1{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.mid{
+  text-align: center;
+}
+
+.footer{
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  margin-top: 30px;
+}
+
+.logo{
+  width: 150px;
+  margin: 30px 0 0 20px;
+}
+
+.title{
+  margin-top: 50px;
+}
+
+.des{
+  margin: 20px 250px 40px 250px;
+}
+
+.left{
+  background-color: #1455B6;
+  font-family: 'Merriweather', serif;
+  margin-right: 10px;
+  font-size: 15px;
+}
+
+.right{
+  border-color: #1455B6;
+  color: #1455B6;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.right:hover{
+  background-color: #1455B6;
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-size: 15px;
+}
+
+.left:hover{
+  background-color: white;
+  color: #1455B6;
+
+}
+
+.modalTitle{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.loginImg{
+  width: 70%;
+  margin: -50px auto -50px auto;
+  display: block;
+}
+
+.form{
+  margin: 0 70px 30px 70px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.submit{
+  margin-top: 30px;
+}
+
+.login{
+  background-color: #1455B6;
+}

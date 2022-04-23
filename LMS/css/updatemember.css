@@ -1,0 +1,166 @@
+html{
+  scroll-behavior: smooth;
+}
+
+.title{
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-size: 30px;
+  margin-top: 25%;
+}
+
+.cat{
+  width: 60%;
+  margin-top: 4%;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: black;
+  border-width: thick;
+}
+
+.left{
+  text-align: center;
+  background-color: #1455B6;
+}
+
+button{
+  width: 45%;
+  height: 50px;
+  margin-bottom: 2%;
+}
+
+.buttongrp{
+  margin-top: 6%;
+  margin-bottom: 5%
+}
+
+.top{
+  background-color: white;
+  border-radius: 5px;
+  color: #1455B6;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.top:hover{
+  background-color: black;
+  color: white;
+}
+
+.bottom:hover{
+  background-color: black;
+  color: white;
+}
+
+.bottom{
+  background-color: white;
+  border-radius: 5px;
+  color: #1455B6;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.right{
+  background-color: #1455B6;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: white;
+}
+
+.subtitle{
+  font-size: 28px;
+  margin-top: 10%;
+}
+
+.tablebox{
+  background-color: white;
+  border-radius: 15px;
+  margin: 3% 5% 8% 5%;
+  padding: 3% 3% 3% 3%;
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+th{
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: #8c8c8c;
+  font-family: 'Merriweather', serif;
+}
+
+td{
+  border-bottom: 1px;
+  border-style: solid;
+  border-color: #ddddd;
+  font-size: 15px;
+  text-align: left;
+}
+
+.member-name{
+  padding: 2% 0 2% 9%;
+  width: 500px;
+}
+
+.form-memberid{
+  text-align: center;
+}
+
+.edit{
+  text-align: center;
+}
+
+.edit-icon{
+  width: 18px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.sec2-title{
+  font-size: 28px;
+  margin-top: 5%;
+  font-family: 'Merriweather', serif;
+}
+
+.form{
+  background-color: #1455B6;
+  margin: 3% 25% 6% 25%;
+  padding: 2% 4% 2% 4%;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.formtitle{
+  color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-label{
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-size: 15px;
+}
+
+.add{
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  background-color: white;
+  color: #1455B6;
+  width: 60%;
+}
+
+.submit{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.query{
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  color: white;
+  margin-top: 1%;
+}

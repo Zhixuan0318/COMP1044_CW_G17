@@ -1,0 +1,38 @@
+div{
+  text-align: center;
+}
+
+.title{
+  font-size: 35px;
+  font-family: 'Merriweather', serif;
+  margin-top: 3%;
+}
+
+img{
+  width: 22%;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  border-width: medium;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 1px;
+  font-size: 15px;
+}
+
+.text{
+  text-align: justify;
+  padding: 0 25%;
+  margin-bottom: 3%;
+  margin-top: 1%;
+}
+
+.buttondiv{
+  background-color: white;
+  border-color: #1455B6;
+  margin-bottom: 5%;
+}

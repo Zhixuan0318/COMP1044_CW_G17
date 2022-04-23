@@ -1,0 +1,85 @@
+.title{
+  font-family: 'Merriweather', serif;
+  color: black;
+  font-size: 30px;
+  margin-top: 10%;
+}
+
+.coffee{
+  width: 80%;
+  margin-top: -6%
+}
+
+.left{
+  text-align: center;
+}
+
+button{
+  width: 45%;
+  height: 50px;
+  margin-bottom: 2%;
+}
+
+.buttongrp{
+  margin-top: -4%
+}
+
+.top{
+  border-color: #1455B6;
+  border-width: 3px;
+  color: #1455B6;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.top:hover{
+  background-color: #1455B6;
+  border-color: #1455B6;
+}
+
+.bottom:hover{
+  background-color: #1455B6;
+  border-color: #1455B6;
+}
+
+.bottom{
+  border-color: #1455B6;
+  border-width: 3px;
+  color: #1455B6;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.form{
+  background-color: #1455B6;
+  margin: 5%;
+  padding: 5% 6% 5% 6%;
+  border-radius: 15px;
+}
+
+.formtitle{
+  color: white;
+  font-family: 'Merriweather', serif;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-label{
+  font-family: 'Merriweather', serif;
+  color: white;
+  font-size: 13px;;
+}
+
+.add{
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  background-color: white;
+  color: #1455B6;
+  width: 60%;
+}
+
+.submit{
+  text-align: center;
+  margin-top: 40px;
+}
