@@ -31,7 +31,6 @@
       </div>
       <div class="buttondiv">
         <a href="home.php"><button type="button" class="btn btn-outline-primary bottom">Back to home</button></a>
-
       </div>
     </div>
   </body>
