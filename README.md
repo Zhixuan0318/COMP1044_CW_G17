@@ -51,7 +51,7 @@ We had prepared a 5 minutes video to demo all the function of the website. Cick 
 * Deleted the ‘date_received’ column from the ‘book’ table as it is very similar to ‘date_added’.
 * Made 10 users in user table to ensure no errors occur due to the ‘user_id’ being unique.
 
-### Additional features for the website UI/UX (or code)
+### Additional features for the website UI/UX (or code):
 * Login form to authenticate user before accessing the admin panel.
 * Error catching in the login form to prevent wrong credentials and blank form submission.
 * SQL injection prevention by reformat the input (remove html special char) before passing the login info for query process.
@@ -65,7 +65,7 @@ We had prepared a 5 minutes video to demo all the function of the website. Cick 
 * Deletion confirmation popup
 * Log out function 
 
-### UI Design Prototype
+### UI Design Prototype:
 
 ![Group 1](https://user-images.githubusercontent.com/69501009/164969273-82ac4027-bbd8-4d8e-abfe-c5c9db3fa34c.png)
 
