@@ -1,4 +1,5 @@
 # Library Management System (DBMS) | Coursework 2
+![cover page (2)](https://user-images.githubusercontent.com/69501009/164965195-3638dace-a3c1-460f-b658-6f6c109befd9.png)
 
 **Done by**: Group 17  
 **Languages**: HTML, CSS, JS, PHP, SQL  
