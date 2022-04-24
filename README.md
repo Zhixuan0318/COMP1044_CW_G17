@@ -67,5 +67,6 @@ We had prepared a 5 minutes video to demo all the function of the website. Cick 
 
 ### UI Design Prototype
 
+![Group 1](https://user-images.githubusercontent.com/69501009/164969273-82ac4027-bbd8-4d8e-abfe-c5c9db3fa34c.png)
 
 
