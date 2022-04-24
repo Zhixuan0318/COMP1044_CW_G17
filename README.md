@@ -33,5 +33,5 @@ A Library Management System (DBMS) which has a front-end user interface connecti
 1) Coursework Report (Task A and Task B): Click [here](https://docs.google.com/document/d/17YUBVp7ML0-aaDV-ZwK_i96Khcvctph70sp4EUlh5nI/edit?usp=sharing) or link: https://docs.google.com/document/d/17YUBVp7ML0-aaDV-ZwK_i96Khcvctph70sp4EUlh5nI/edit?usp=sharing 
 2) Work breakdown structure: Click [here](https://docs.google.com/document/d/1wIrDQAa_I3qw5v-DXFbgpf0RvWNjK-pkGTo-XezbcQ8/edit?usp=sharing) or link: https://docs.google.com/document/d/1wIrDQAa_I3qw5v-DXFbgpf0RvWNjK-pkGTo-XezbcQ8/edit?usp=sharing 
 
-## Video Demonstration
-We had prepared a 5 minutes video to demonstrate all the function of the website. Cick [here](https://drive.google.com/file/d/1wmmtgNT_-8nMGBdfvpJeIJnrgXM2lqL4/view?usp=sharing) to view in google drive, OR copy and paste the link in browser: https://drive.google.com/file/d/1wmmtgNT_-8nMGBdfvpJeIJnrgXM2lqL4/view?usp=sharing
+## Video Demo
+We had prepared a 5 minutes video to demo all the function of the website. Cick [here](https://drive.google.com/file/d/1wmmtgNT_-8nMGBdfvpJeIJnrgXM2lqL4/view?usp=sharing) to view in google drive, OR copy and paste the link in browser: https://drive.google.com/file/d/1wmmtgNT_-8nMGBdfvpJeIJnrgXM2lqL4/view?usp=sharing
