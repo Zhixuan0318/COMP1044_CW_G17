@@ -6,7 +6,7 @@
 **Module**: COMP1044
 
 ##  Synopsis
-A Library Management System (DBMS) which has a front-end user interface connecting to the database and perform queries using PHP and SQL. The functionality of the system includes:
+A Library Management System (DBMS) which has a front-end user interface connecting to the database and perform queries using PHP and SQL. The functionalities of the system includes:
 * User authentication
 * Database insights
 * Adding a book
